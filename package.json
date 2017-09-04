@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eth-query": "^1.0.0",
+    "eth-query": "^2.1.2",
     "ethereumjs-tx": "^1.1.1",
-    "web3-provider-engine": "^7.8.1",
-    "yargs": "^4.7.1"
+    "web3-provider-engine": "^13.2.9",
+    "yargs": "^8.0.2"
   }
 }
